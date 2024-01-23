@@ -11,8 +11,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Github Contributes
-![](https://github-readme-stats.vercel.app/api?username=bilisim34&hide_border=false&include_all_commits=false&count_private=true)<br/>
-<img align="right" alt="GIF" src="https://github.com/bilisim34/bilisim34/blob/master/code.gif?raw=true" width="340" height="320" /><br/>
+![](https://github-readme-stats.vercel.app/api?username=bilisim34&hide_border=false&include_all_commits=false&count_private=true)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/bilisim34/bilisim34/main/code.gif" width="340" height="320" /><br/>
 ## 🌐Socials
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bilisim34) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bilisim34) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bilisim34) 
