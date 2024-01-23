@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Github Contributes
-![](https://github-readme-stats.vercel.app/api?username=bilisim34&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=bilisim34&show_icons=true&theme=gotham)
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/bilisim34/bilisim34/main/code.gif" width="340" height="320" /><br/>
 ## 🌐Socials
 
